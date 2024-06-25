@@ -1,0 +1,14 @@
+D:\Documentos\Programaçao\Senai\BackEnd\ControleClientes\Atividade\bin\Debug\net8.0\Atividade.exe
+D:\Documentos\Programaçao\Senai\BackEnd\ControleClientes\Atividade\bin\Debug\net8.0\Atividade.deps.json
+D:\Documentos\Programaçao\Senai\BackEnd\ControleClientes\Atividade\bin\Debug\net8.0\Atividade.runtimeconfig.json
+D:\Documentos\Programaçao\Senai\BackEnd\ControleClientes\Atividade\bin\Debug\net8.0\Atividade.dll
+D:\Documentos\Programaçao\Senai\BackEnd\ControleClientes\Atividade\bin\Debug\net8.0\Atividade.pdb
+D:\Documentos\Programaçao\Senai\BackEnd\ControleClientes\Atividade\obj\Debug\net8.0\Atividade.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Programaçao\Senai\BackEnd\ControleClientes\Atividade\obj\Debug\net8.0\Atividade.AssemblyInfoInputs.cache
+D:\Documentos\Programaçao\Senai\BackEnd\ControleClientes\Atividade\obj\Debug\net8.0\Atividade.AssemblyInfo.cs
+D:\Documentos\Programaçao\Senai\BackEnd\ControleClientes\Atividade\obj\Debug\net8.0\Atividade.csproj.CoreCompileInputs.cache
+D:\Documentos\Programaçao\Senai\BackEnd\ControleClientes\Atividade\obj\Debug\net8.0\Atividade.dll
+D:\Documentos\Programaçao\Senai\BackEnd\ControleClientes\Atividade\obj\Debug\net8.0\refint\Atividade.dll
+D:\Documentos\Programaçao\Senai\BackEnd\ControleClientes\Atividade\obj\Debug\net8.0\Atividade.pdb
+D:\Documentos\Programaçao\Senai\BackEnd\ControleClientes\Atividade\obj\Debug\net8.0\Atividade.genruntimeconfig.cache
+D:\Documentos\Programaçao\Senai\BackEnd\ControleClientes\Atividade\obj\Debug\net8.0\ref\Atividade.dll
